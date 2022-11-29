@@ -1,0 +1,15 @@
+<package>
+  <name>ay_fv_extra</name>
+  <version>0.0.1</version>
+  <description>ay_fv_extra</description>
+  <author>Akihiko Yamaguchi</author>
+  <maintainer email="user@todo.todo">user</maintainer>
+  <license>Described in LICENSE</license>
+  <url>http://akihikoy.net</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>fingervision</build_depend>
+  <run_depend>fingervision</run_depend>
+
+</package>
+
+
